@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Welcome to our AWS/DvOps Project !!";
+		return "Welcome to our AWS/DvOps Project V1 !!";
 	}
 
 	public static void main(String[] args) {
